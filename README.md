@@ -1,2 +1,2 @@
-# group-_6
+# group_6_DEPI
 Store Sales
